@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hey, I'm Dan
 
-<!--
-**hdang-dev/hdang-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 A front-end developer at Samsung SEHC 
+- ⭐ To become a professional front-end developer
+- 🎓 Major in Computer Science, University of Science - VNUHCM
 
-Here are some ideas to get you started:
+## Email me at
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+haidang.fordevelop@gmail.com
+
+## Technologies
+
+<div align="center">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" /></a>
+   <a href="https://vite.dev"><img src="https://skillicons.dev/icons?i=vite" /></a>
+   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
+   <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+   <a href="https://redux-toolkit.js.org"><img src="https://skillicons.dev/icons?i=redux" /></a>
+   <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+   <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+   <a href="https://styled-components.com"><img src="https://skillicons.dev/icons?i=styledcomponents" /></a>
+   <a href="https://rxjs.dev"><img src="https://skillicons.dev/icons?i=reactivex" /></a>
+</div>
+
+
+
